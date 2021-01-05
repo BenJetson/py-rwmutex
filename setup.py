@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="rwmutex",  # Replace with your own username
-    version="1.0",
+    version="1.1",
     author="Ben Godfrey",
     author_email="BenJetson@users.noreply.github.com",
     description="Provides a read/write mutex lock usable with context managers.",
