@@ -1,5 +1,5 @@
 from threading import Thread
-from mux import RWLock
+from rwmutex import RWLock
 from time import sleep
 
 lock = RWLock()
